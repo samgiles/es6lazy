@@ -1,0 +1,23 @@
+{
+  "name": "es6lazy",
+  "version": "1.0.0",
+  "description": "Lazy, ES6, higher order, processing methods",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "engines": {
+	"node": ">=0.11.0"
+  },
+  "engineStrict": true,
+  "keywords": [
+    "ES6",
+    "lazy",
+    "generators"
+  ],
+  "author": "Samuel Giles",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
